@@ -31,7 +31,7 @@ This repository contains my completed technical assessment for the Lead Systems 
 
 ## 🎥 Video Walkthrough
 
-📽️ [Loom Video — Assessment Walkthrough](#) *(link to be added)*  
+📽️ [Loom Video — Assessment Walkthrough](#) (https://www.loom.com/share/3d2f3aca61284a32a3f8e704ba2cd4d8)
 A 5–8 minute walkthrough explaining my design decisions, diagram rationale, roadmap priorities, and selected technical questions.
 
 ---
